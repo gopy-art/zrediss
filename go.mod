@@ -1,4 +1,4 @@
-module RedissViewer
+module github.com/gopy-art/zrediss
 
 go 1.22.3
 
